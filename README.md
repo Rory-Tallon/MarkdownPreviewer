@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Markdown previewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple web app written in the JS library React to translate plain text markdown and render it immediately.
 
 ## Available Scripts
 
